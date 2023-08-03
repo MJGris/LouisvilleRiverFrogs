@@ -21,4 +21,4 @@ George Wilcox,C
 Chris Rowland,R
 Eric Johnson,R
 Gino Santerre,D
-Alain Morissette,G
+Alain Morissette,
